@@ -1,5 +1,5 @@
     spring:
-     application:
+      application:
         name: spring-cloud-eureka-client
     server:
       port: 0
